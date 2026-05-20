@@ -1,0 +1,11 @@
+date,category,amount,type
+2026-05-01,Salary,5000,income
+2026-05-01,Rent,1200,expense
+2026-05-02,Groceries,150,expense
+2026-05-03,Freelance,500,income
+2026-05-05,Utilities,100,expense
+2026-05-10,Dining Out,75,expense
+2026-05-15,Shopping,200,expense
+2026-05-20,Transport,50,expense
+2026-05-20,Study Material,400.0,expense
+2026-05-20,Calculator,1200.0,expense
