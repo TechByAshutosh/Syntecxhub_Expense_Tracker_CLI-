@@ -1,1 +1,0 @@
-# Syntecxhub_Expense_Tracker_CLI-
